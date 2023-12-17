@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing:border-box;
+    font-family: 'Montserrat', sans-serif;     
+}
+body{
+    background-color:#151929;
+
+}
+.contact {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.act{
+    color:white;
+    font-size: 2em; 
+    font-weight:bolder;
+    text-align: center;
+    margin-left: 44%;
+}
+.us{
+    color:rgb(111, 74, 0);
+    font-size: 2em;
+    font-weight:bolder;
+
+}
+.np{
+    margin-top: 50px;
+    text-align: center;
+}
+.nom{
+    height:65px;
+    width: 450px;
+    font-size: 1em;
+    color:white;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    background-color: #323846;
+    padding-left:10px;
+}
+.prenom{
+    height:65px;
+    width: 450px;
+    font-size: 1em;
+    color:white;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    background-color: #323846;
+    padding-left:10px;
+}
+.tem{
+    margin-top: 30px;
+    text-align: center;
+}
+.tel{
+    height:65px;
+    width: 450px;
+    font-size: 1em;
+    color:white;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    background-color: #323846;
+    padding-left:10px;
+}
+.mail{
+    height:65px;
+    width: 450px;
+    font-size: 1em;
+    color:white;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    background-color: #323846;
+    padding-left:10px;
+}
+.ma{
+    margin-top: 30px;
+    text-align: center;
+    
+}
+.ma input {
+    text-align: top;
+}
+.massage{
+    height:400px;
+    width: 900px;
+    font-size: 1em;
+    color:white;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    background-color: #323846; 
+    padding-top: 10px;
+    padding-left:10px;
+}
+.submit-button {
+    background-color:rgb(111, 74, 0); 
+    color: white; 
+    padding: 10px 30px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 45%;
+    margin-top: 1%;
+  }
